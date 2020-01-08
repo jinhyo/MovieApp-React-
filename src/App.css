@@ -13,7 +13,7 @@ body {
 
 html,
 body,
-.container {
+#root .container {
   height: 100%;
   display: flex;
   justify-content: center;
